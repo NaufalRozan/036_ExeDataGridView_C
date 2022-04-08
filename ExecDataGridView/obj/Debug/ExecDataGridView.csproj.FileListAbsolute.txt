@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\bin\Debug\ExecDataGridView.exe.config
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\bin\Debug\ExecDataGridView.exe
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\bin\Debug\ExecDataGridView.pdb
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.Properties.Resources.resources
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.csproj.GenerateResource.cache
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.exe
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.pdb
+D:\Kuliah\Semester 4\PABD\Viscode\ExecDataGridView\ExecDataGridView\obj\Debug\ExecDataGridView.Form1.resources
